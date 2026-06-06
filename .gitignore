@@ -9,3 +9,4 @@ backend/data/
 *.joblib
 .ipynb_checkpoints/
 dist/
+backend/models/
